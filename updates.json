@@ -1,1 +1,8 @@
-
+{
+  "linux-armv7l-prod": {
+    "update": "https://github.com/criticalboot/BMS/releases/download/linux-armv7l-prod-v1.0.0/OmniCoMM-1.0.0-armv7l.AppImage",
+    "install": "https://github.com/criticalboot/BMS/releases/download/linux-armv7l-prod-v1.0.0/OmniCoMM-1.0.0-armv7l.AppImage",
+    "version": "1.0.0",
+    "sha256": "14173f4aa7dc62f5d971fb3dcbf0c9556860c6c09aa14acfc845992e102ce5f8"
+  }
+}
