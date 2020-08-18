@@ -1,14 +1,14 @@
 {
   "linux-armv7l-prod": {
-    "update": "https://github.com/criticalboot/BMS/releases/download/linux-armv7l-prod-v1.0.3/OmniCoMM-1.0.3-armv7l.AppImage",
-    "install": "https://github.com/criticalboot/BMS/releases/download/linux-armv7l-prod-v1.0.3/OmniCoMM-1.0.3-armv7l.AppImage",
-    "version": "1.0.3",
-    "sha256": "920a808e17bd2ceb37341e5454ae131bd43d92f4fa1db2baf5ac925f5efd0fd7"
+    "update": "https://github.com/criticalboot/BMS/releases/download/linux-armv7l-prod-v1.0.4/OmniCoMM-1.0.4-armv7l.AppImage",
+    "install": "https://github.com/criticalboot/BMS/releases/download/linux-armv7l-prod-v1.0.4/OmniCoMM-1.0.4-armv7l.AppImage",
+    "version": "1.0.4",
+    "sha256": "6f2b5fbf4d1681d56563c15d24d49d700641a245f1149152c90f43391bcb832f"
   },
   "linux-x64-prod": {
-    "update": "https://github.com/criticalboot/BMS/releases/download/linux-x64-prod-v1.0.3/OmniCoMM-1.0.3.AppImage",
-    "install": "https://github.com/criticalboot/BMS/releases/download/linux-x64-prod-v1.0.3/OmniCoMM-1.0.3.AppImage",
-    "version": "1.0.3",
-    "sha256": "cf748e9a62e3830b572fabe1463da1f4ea7f0a208d5e1f4f6c9cfc9bb325d90c"
+    "update": "https://github.com/criticalboot/BMS/releases/download/linux-x64-prod-v1.0.4/OmniCoMM-1.0.4.AppImage",
+    "install": "https://github.com/criticalboot/BMS/releases/download/linux-x64-prod-v1.0.4/OmniCoMM-1.0.4.AppImage",
+    "version": "1.0.4",
+    "sha256": "d03bbd4365b0fdf1a939fb6b79505659dfa7f2d6c7e4ba6690b91e957a6c94cf"
   }
 }
